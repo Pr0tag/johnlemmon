@@ -6,6 +6,7 @@ Tasks Completed:
     MAJOR MOD: You create a shield power-up. If John Lemon picks it up, he can collide with a Ghost and destroy it. The shield should have a visual indicator. also has multiple audio indicators.
 
 Gamepley Video Link: 
+    https://youtu.be/Ok1hDEJqgl4
     
 
 Github Repository Link:
